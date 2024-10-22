@@ -1,0 +1,32 @@
+[
+  {
+    "name":"EFS-S641TMS-1A",
+    "brand":"นาฬิกาเรือนนี้อิงจากนาฬิกาโครโนกราฟที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์ ",
+    "imag":"https://www.casio.com/content/dam/casio/product-info/locales/th/th/timepiece/product/watch/E/EF/EFS/efs-s641tms-1a/assets/EFS-S641TMS-1A.png.transform/product-panel/image.png.transform/product-panel/image.png",
+    "price":"14,500.00"
+  },
+  {
+    "name":"EQS-960D-1AV",
+    "brand":"ตัวเรือนเรซินที่เสริมความแข็งแกร่งด้วยคาร์บอนไฟเบอร์มีน้ำหนักเบาแต่แข็งแรง ",
+    "imag":"https://www.casio.com/content/dam/casio/product-info/locales/th/th/timepiece/product/watch/E/EQ/EQS/eqs-960d-1av/assets/EQS-960D-1AVU.png.transform/product-panel/image.png.transform/product-panel/image.png",
+    "price":"7,900.00"
+  },
+  {
+    "name":"EQS-960PB-1AV",
+    "brand":"ซึ่งมีตัวเรือนเรซินเสริมคาร์บอนไฟเบอร์พร้อมการออกแบบแขนกันสะเทือน และเสริมด้วยหน้าปัดคาร์บอนไฟเบอร์ ",
+    "imag":"https://www.casio.com/content/dam/casio/product-info/locales/th/th/timepiece/product/watch/E/EQ/EQS/eqs-960pb-1av/assets/EQS-960PB-1AVU.png.transform/product-panel/image.png.transform/product-panel/image.png",
+    "price":"8,400.00"
+  },
+  {
+    "name":"GM-2110D-2A",
+    "brand":"กรอบสเตนเลสสตีลทรงแปดเหลี่ยมที่ได้รับการหลอมและขัดเงาอย่างพิถีพิถัน โดดเด่นด้วยดีไซน์ที่เรียบง่าย .",
+    "imag":"https://www.casio.com/content/dam/casio/product-info/locales/th/th/timepiece/product/watch/G/GM/gm2/gm-2110d-2a/assets/GM-2110D-2A.png.transform/product-panel/image.png.transform/product-panel/image.png",
+    "price":"10,900.00"
+  },
+  {
+    "name":"GW-9500MEC-1",
+    "brand":"พร้อมเน้นด้วยสีสดใสที่มักใช้แสดงถึงภาวะฉุกเฉิน ซึ่งสื่อถึงโลกของมืออาชีพที่เกี่ยวข้องกับความพยายามในการช่วยเหลือและภารกิจสำคัญอื่นๆ ",
+    "imag":"https://www.casio.com/content/dam/casio/product-info/locales/th/th/timepiece/product/watch/G/GW/GW9/gw-9500mec-1/assets/GW-9500MEC-1.png.transform/product-panel/image.png.transform/product-panel/image.png",
+    "price":"15,900.00"
+  }
+]
